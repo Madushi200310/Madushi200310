@@ -14,7 +14,6 @@
     <td width="55%" style="vertical-align: top;">
       <h2>👩‍💻 About Me</h2>
       <ul>
-        <li>🔭 Currently working on <b>NextStep</b> — an open-source academic platform</li>
         <li>🌱 Learning <b>Spring Boot, React & Clean Architecture</b></li>
         <li>🏫 Software Engineering Student at <b>NSBM Green University</b></li>
         <li>🤝 Open to collaboration on student-focused & open-source projects</li>
