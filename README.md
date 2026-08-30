@@ -21,7 +21,6 @@
       </ul>
       <p>I'm a passionate developer who loves building clean, scalable, and impactful software — from robust backend APIs to dynamic user interfaces.</p>
     </td>
-  
   </tr>
 </table>
 
@@ -31,10 +30,8 @@
 
 <p align="left">
   <a href="https://github.com/Madushi200310" target="blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="hansiwijesekara85@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="mailto:hansiwijesekara85@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
-
-> 
 
 ---
 
@@ -88,9 +85,20 @@ An academic resource hub with APIs for notes, study groups, and more — built t
 
 ---
 
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Madushi200310&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Madushi200310&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+---
 
 ## 🚀 GitHub Activity Graph
-![Madushi's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Madushi200310&theme=tokyo-night)
+
+<p align="center">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Madushi200310&theme=tokyo-night&bg_color=0d1117&color=a8d8ea&line=2c5364&point=ffffff&area=true&hide_border=true" alt="Madushi's Activity Graph" />
+</p>
 
 ---
 
