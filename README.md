@@ -28,7 +28,7 @@
         <li>🎨 Familiar with <b>Figma</b> for UI/UX design & prototyping</li>
         <li>💻 Comfortable with <b>VS Code, Visual Studio & IntelliJ IDEA</b></li>
       </ul>
-      <p>I'm a passionate developer who loves building clean, scalable, and impactful software — from robust backend APIs to dynamic user interfaces and mobile applications.</p>
+      <p>I'm a passionate developer who loves building clean, scalable, and impactful software — from robust backend APIs to dynamic user interfaces, mobile applications, and cloud-integrated apps.</p>
     </td>
     <td width="40%" align="center" style="vertical-align: middle;">
       <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="100%" alt="Girl Coding Animation" />
@@ -74,6 +74,10 @@
 ### 🔹 Database
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Firestore](https://img.shields.io/badge/Firestore-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+
+### 🔹 Cloud & Backend Services
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
 ### 🔹 Design
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
